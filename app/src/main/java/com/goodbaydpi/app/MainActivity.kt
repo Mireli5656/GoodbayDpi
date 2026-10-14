@@ -1,4 +1,3 @@
-
 package com.goodbaydpi.app
 
 import android.app.Activity
@@ -65,3 +64,4 @@ class MainActivity : Activity() {
         connectButton.isEnabled = false
     }
 }
+
