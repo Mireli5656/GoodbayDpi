@@ -1,4 +1,3 @@
-
 package com.goodbaydpi.app.vpn
 
 import android.content.Intent
